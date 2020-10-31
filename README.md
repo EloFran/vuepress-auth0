@@ -29,7 +29,8 @@ export default {
 
 In the root documentation directory, `/docs` for example, create a file named `callback.md` and in it, add the following markdown:
 
-```md---
+```md
+---
 home: false
 navbar: false
 sidebar: false
